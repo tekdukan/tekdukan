@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Reading Practice – Grade 5 A2</title>
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f2f2f2;
+    margin: 20px;
+}
+.container {
+    background-color: white;
+    padding: 25px;
+    max-width: 900px;
+    margin: auto;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: #2c3e50;
+}
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+.highlight {
+    background-color: #fff2a8;
+    font-weight: bold;
+}
+.vocab {
+    color: #d35400;
+    font-weight: bold;
+}
+.note {
+    background-color: #e8f4fc;
+    padding: 10px;
+    margin-top: 20px;
+    border-left: 5px solid #3498db;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>A Busy Day at the City Market</h1>
+
+<p>
+Last Saturday, Tom and his sister Anna went to the <span class="vocab">market</span> with their mother. 
+The market was very <span class="vocab">crowded</span> and full of people. 
+Tom felt <span class="highlight">excited</span> because he loves to see new things.
+</p>
+
+<p>
+At the entrance, they saw a big man selling fresh <span class="vocab">fruit</span> and colorful vegetables. 
+There were red apples, yellow bananas, green peppers, and big orange carrots. 
+The smell was wonderful and very <span class="highlight">fresh</span>.
+</p>
+
+<p>
+Anna wanted to buy some <span class="vocab">flowers</span>. She likes pink and white roses. 
+Her mother gave her some money and said, “Be <span class="highlight">careful</span> and stay near us.” 
+Anna chose a small bunch of beautiful flowers and felt very happy.
+</p>
+
+<p>
+Tom stopped in front of a toy shop. He saw small cars, funny dolls, and colorful balloons. 
+He asked his mother, “Can I buy one blue balloon, please?”  
+His mother smiled and said yes. Tom felt <span class="highlight">proud</span> walking around with his new balloon.
+</p>
+
+<p>
+After one hour, the family felt <span class="vocab">hungry</span>.  
+They sat at a little table and ate delicious sandwiches.  
+Tom drank cold apple juice and Anna had sweet orange juice.  
+They talked, laughed, and enjoyed their <span class="highlight">time together</span>.
+</p>
+
+<p>
+Before going home, their mother checked the shopping list again.  
+They bought bread, milk, eggs, and some rice.  
+Finally, they got into the car and drove back home.  
+Everyone was tired but very <span class="highlight">satisfied</span> after a nice family day.
+</p>
+
+<div class="note">
+<strong>Important Vocabulary to Memorize:</strong><br><br>
+<span class="vocab">market</span> – a place where people buy and sell things<br>
+<span class="vocab">crowded</span> – full of many people<br>
+<span class="vocab">fruit</span> – apples, bananas, oranges, etc.<br>
+<span class="vocab">flowers</span> – colorful plants with nice smell<br>
+<span class="vocab">hungry</span> – wanting to eat food<br>
+<span class="highlight">excited</span> – very happy and full of energy<br>
+<span class="highlight">fresh</span> – new and clean<br>
+<span class="highlight">careful</span> – paying attention<br>
+<span class="highlight">proud</span> – feeling good about something<br>
+<span class="highlight">time together</span> – spending time with family or friends<br>
+<span class="highlight">satisfied</span> – happy because something was good
+</div>
+
+</div>
+
+</body>
+</html>
