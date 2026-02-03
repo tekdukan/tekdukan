@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Reading Practice – Grade 5 A2</title>
+
+<style>
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eef3f7;
+    margin: 20px;
+}
+.container {
+    background-color: white;
+    padding: 25px;
+    max-width: 900px;
+    margin: auto;
+    border-radius: 10px;
+}
+h1 {
+    text-align: center;
+    color: #1f4e79;
+}
+p {
+    font-size: 18px;
+    line-height: 1.8;
+}
+.highlight {
+    background-color: #ffeaa7;
+    font-weight: bold;
+}
+.vocab {
+    color: #c0392b;
+    font-weight: bold;
+}
+.note {
+    background-color: #eafaf1;
+    padding: 10px;
+    margin-top: 20px;
+    border-left: 5px solid #27ae60;
+}
+</style>
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>The School Science Fair</h1>
+
+<p>
+Last week, Emily had a very <span class="highlight">special</span> day at school.  
+Her class was preparing for the yearly <span class="vocab">science fair</span>.  
+All the students were busy making interesting projects.
+</p>
+
+<p>
+Emily decided to make a project about the <span class="vocab">solar system</span>.  
+She used paper, glue, and colorful balls to make the planets.  
+Her favorite planet is Saturn because it has beautiful <span class="highlight">rings</span>.
+</p>
+
+<p>
+Her best friend Jack made a project about plants.  
+He brought small green plants in pots and explained how they grow.  
+He told everyone that plants need water, light, and good <span class="vocab">soil</span> to live.
+</p>
+
+<p>
+On Friday morning, many parents came to visit the fair.  
+The school hall was full of noise and happy voices.  
+Emily felt a little <span class="highlight">nervous</span>, but also very proud of her work.
+</p>
+
+<p>
+When it was Emily’s turn, she stood next to her project and talked clearly.  
+She explained the names of the planets and showed how they move around the sun.  
+Her teacher said, “Great job, Emily! You worked very <span class="highlight">hard</span>.”
+</p>
+
+<p>
+At the end of the day, Emily got a small gold star for her project.  
+She went home feeling very <span class="vocab">confident</span> and happy.  
+She learned that learning new things can be fun and <span class="highlight">exciting</span>.
+</p>
+
+<div class="note">
+<strong>Important Vocabulary to Memorize:</strong><br><br>
+
+<span class="vocab">science fair</span> – a school event where students show projects<br>
+<span class="vocab">solar system</span> – the sun and all the planets around it<br>
+<span class="vocab">soil</span> – the earth where plants grow<br>
+<span class="vocab">confident</span> – feeling sure about yourself<br>
+
+<span class="highlight">special</span> – different and important<br>
+<span class="highlight">rings</span> – circles around something<br>
+<span class="highlight">nervous</span> – a little scared or worried<br>
+<span class="highlight">hard</span> – with a lot of effort<br>
+<span class="highlight">exciting</span> – fun and interesting
+</div>
+
+</div>
+
+</body>
+</html>
